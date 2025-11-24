@@ -1,0 +1,8 @@
+Isla Huar;Calbuco;1250
+Isla Aucar;Quemchi;1786
+Isla Maillen;Reloncavi;907
+Isla San Pedro;Chiloe;1345
+Isla Linlin;Chiloe;487
+Isla Alao;Quinchao;707
+Isla Abtao;Calbuco;1444
+
